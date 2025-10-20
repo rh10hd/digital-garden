@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games-log/kulebra-and-the-souls-of-limbo-outline/","created":"2025-06-15T14:50:18.135+08:00"}
+{"dg-publish":true,"permalink":"/games-log/kulebra-and-the-souls-of-limbo-outline/","created":"2025-06-15T14:50:18.000+08:00"}
 ---
 
 > <font color="#ff0000">Spoiler!!</font> 本文是游戏[[Games Log/Kulebra and the Souls of Limbo\|Kulebra and the Souls of Limbo]]的剧情梳理，有剧透，请酌情观看。部分描述直接摘自游戏中笔记本的文段，因此

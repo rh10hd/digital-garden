@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage/moving-out-of-gridea/","created":"2025-06-06T20:28:25.865+08:00"}
+{"dg-publish":true,"permalink":"/collage/moving-out-of-gridea/","created":"2025-06-06T20:28:25.000+08:00"}
 ---
 
 > 首先声明这不是关于[Gridea](https://github.com/getgridea/gridea)的负面文章，我非常喜欢这个软件，当然也不是clickbait。这篇博文是我个人关于博客及写博文的一些想法的变迁。

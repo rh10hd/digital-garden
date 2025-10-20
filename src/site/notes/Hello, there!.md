@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hello-there/","tags":["gardenEntry"],"created":"2025-06-05T11:40:31.949+08:00"}
+{"dg-publish":true,"permalink":"/hello-there/","tags":["gardenEntry"],"created":"2025-06-05T11:40:31.000+08:00"}
 ---
 
 ## About the digital garden

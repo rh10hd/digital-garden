@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reading-log/axiomatic/","created":"2025-06-03T16:50:45.324+08:00"}
+{"dg-publish":true,"permalink":"/reading-log/axiomatic/","created":"2025-06-03T16:50:45.000+08:00"}
 ---
 
 > **<font color="#ff0000">WARNING: 以下内容有剧透，请谨慎观看！</font>**

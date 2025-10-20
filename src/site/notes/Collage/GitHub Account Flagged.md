@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage/git-hub-account-flagged/","created":"2025-06-18T22:21:21.672+08:00"}
+{"dg-publish":true,"permalink":"/collage/git-hub-account-flagged/","created":"2025-06-18T22:21:21.000+08:00"}
 ---
 
 在前两天推送博客的时候，发现明明vercel没有任何错误提示，但是博客内容没有任何变化，当时我以为是网络的问题，没想太多。

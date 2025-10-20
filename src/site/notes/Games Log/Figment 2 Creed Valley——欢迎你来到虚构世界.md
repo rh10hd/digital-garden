@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/games-log/figment-2-creed-valley/","created":"2024-07-15T17:10:23.428+08:00"}
+{"dg-publish":true,"permalink":"/games-log/figment-2-creed-valley/","created":"2024-07-15T17:10:23.000+08:00"}
 ---
 
 ## Intro
