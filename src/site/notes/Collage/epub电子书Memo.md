@@ -43,7 +43,7 @@
 
 如果是这样，最省事的方法就是直接改用能够识别`<aside>`标签的阅读器或者阅读软件，iOS端推荐使用自带的Books，非常强大的阅读工具，兼容性非常优秀，我几乎所有的电子书（epub格式）它都能正常处理，缺点就是支持的格式太少了，甚至连txt都不支持。
 
-Android端推荐使用Moon Reader（静读天下），Android端上非常优秀阅读软件，和Books可以相媲美，支持的格式还更多，对于PDF格式的支持尤为不错，免费版有广告，买断10.99刀。
+Android端推荐使用Moon Reader（静读天下），Android端上非常优秀的阅读软件，和Books可以相媲美，支持的格式还更多，对于PDF格式的支持尤为不错，免费版有广告，买断10.99刀。
 
 另外推荐一款iOS，Android，Windows，Mac和Linux都适用且开源免费的阅读软件[Readest](https://readest.com/)，支持云同步，也能够正常阅读`<aside>`的书籍。免费版提供500m的云空间，还有premium版，有条件的话就支持一下开发者们吧。
 
@@ -57,12 +57,14 @@ Android端推荐使用Moon Reader（静读天下），Android端上非常优秀�
 
 引用内容代码：
 
-```<aside epub:type="footnote" id="footnote-4-111"><ol class="duokan-footnote-content"><li class="duokan-footnote-item">茉莉·布鲁姆（1978— ），美国创业家、演讲家和作家，2014年出版回忆录《茉莉牌局：世上高赌注的地下扑克游戏最独家的内幕，一个26岁女人的真实故事》。——译注（本书注释均为译注，以下不再逐一说明）</li></ol></aside>
+```
+<aside epub:type="footnote" id="footnote-4-111"><ol class="duokan-footnote-content"><li class="duokan-footnote-item">茉莉·布鲁姆（1978— ），美国创业家、演讲家和作家，2014年出版回忆录《茉莉牌局：世上高赌注的地下扑克游戏最独家的内幕，一个26岁女人的真实故事》。——译注（本书注释均为译注，以下不再逐一说明）</li></ol></aside>
 ```
 
 注释代码：
 
-```<sup class="calibre16"><a epub:type="noteref" href="#footnote-4-95"> <img src="../images/image_000.png" alt="茉莉·布鲁姆（1978— ），美国创业家、演讲家和作家，2014年出版回忆录《茉莉牌局：世上高赌注的地下扑克游戏最独家的内幕，一个26岁女人的真实故事》。——译注（本书注释均为译注，以下不再逐一说明）" zy-footnote="茉莉·布鲁姆（1978— ），美国创业家、演讲家和作家，2014年出版回忆录《茉莉牌局：世上高赌注的地下扑克游戏最独家的内幕，一个26岁女人的真实故事》。——译注（本书注释均为译注，以下不再逐一说明）" class="epub-footnote"/></a></sup>
+```
+<sup class="calibre16"><a epub:type="noteref" href="#footnote-4-95"> <img src="../images/image_000.png" alt="茉莉·布鲁姆（1978— ），美国创业家、演讲家和作家，2014年出版回忆录《茉莉牌局：世上高赌注的地下扑克游戏最独家的内幕，一个26岁女人的真实故事》。——译注（本书注释均为译注，以下不再逐一说明）" zy-footnote="茉莉·布鲁姆（1978— ），美国创业家、演讲家和作家，2014年出版回忆录《茉莉牌局：世上高赌注的地下扑克游戏最独家的内幕，一个26岁女人的真实故事》。——译注（本书注释均为译注，以下不再逐一说明）" class="epub-footnote"/></a></sup>
 ```
 
 注意`epub:type="footnote"`和`epub:type="href"`，不能漏掉`epub:`这个部分。
