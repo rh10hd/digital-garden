@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage/15-inspirations-for-psychonauts-tim-schafer/","created":"2025-07-19T13:23:50.881+08:00"}
+{"dg-publish":true,"permalink":"/collage/15-inspirations-for-psychonauts-tim-schafer/","created":"2025-07-19T13:23:50.000+08:00"}
 ---
 
 https://www.youtube.com/watch?v=MpiKc_l4wZ4&t=2s
@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=MpiKc_l4wZ4&t=2s
 
 下面就简单地摘录了点Tim做Psychonauts的灵感来源。之后我也要抽空来看看。
 
-**movie**: 
+## movie
 
 - Dreamscape 1984
 - The New Legend of Shaolin 新少林五祖 （Tim说被这部电影里谢苗饰演的小男主所吸引，想着可以做一部以一个10岁小男孩为主角的游戏，这也是Raz的灵感来源）
@@ -17,21 +17,23 @@ https://www.youtube.com/watch?v=MpiKc_l4wZ4&t=2s
 - The Nightmare before Christmas
 - Black Velvetopia
 
-**books**: 
+## books
 
-- Haruki Murakmi: End of the world and hard-boiled wonderland 村上春树-世界末日与冷酷异境
+- Haruki Murakmi: End of the world and hard-boiled wonderland（世界末日与冷酷异境）
 
-**artists**: 
+## artists
 
 - Joe Sorren（Psychonauts中人物的形象设计来源）
 - Jean-Michel Basquiat（Psychonauts中收集品figments的设计来源）
 - Paul Klee 
 
-**games**: 
+## games
 
 - Super Mario 64（这个似乎是Tim在制作Psychonauts时常常玩的游戏）
 - Skies of Arcadia （Psychonauts一些mechanics的灵感来源）
 - The Suffering
+
+## 其他
 
 下面这段话是Tim对于制作游戏过程的理解，个人觉得蛮有意思的，所以也特意记录了下来，不只是做游戏，只要是和团队合作相关的事情，似乎都不可避免地会以这样的模式发展。
 
