@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage/15-inspirations-for-psychonauts-tim-schafer/","created":"2025-07-19T13:23:50.000+08:00"}
+{"dg-publish":true,"permalink":"/collage/15-inspirations-for-psychonauts-tim-schafer/","created":"2025-07-19T13:23:50.000+08:00","dg-note-properties":{}}
 ---
 
 https://www.youtube.com/watch?v=MpiKc_l4wZ4&t=2s

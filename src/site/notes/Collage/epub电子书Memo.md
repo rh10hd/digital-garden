@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage/epub-memo/","created":"2025-10-30T08:33:03.000+08:00"}
+{"dg-publish":true,"permalink":"/collage/epub-memo/","created":"2025-10-30T08:33:03.000+08:00","dg-note-properties":{}}
 ---
 
 ## 概览

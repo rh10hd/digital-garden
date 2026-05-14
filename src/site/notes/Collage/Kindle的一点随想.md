@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage/kindle/","created":"2025-10-20T20:49:43.844+08:00"}
+{"dg-publish":true,"permalink":"/collage/kindle/","created":"2025-10-20T20:49:43.844+08:00","dg-note-properties":{}}
 ---
 
 最近我回归用Kindle看书了，发现一个很神奇的事情，机器越狱之后读书的热情就会被重新燃起，我看reddit上好几个帖子和回复都是这么说的，包括我本人也是。
