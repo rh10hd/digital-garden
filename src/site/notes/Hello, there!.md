@@ -1,5 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/hello-there/","tags":["gardenEntry"],"created":"2025-06-05T11:40:31.000+08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Hello, there!/","tags":["gardenEntry"],"created":"2025-06-05T11:40:31.000+08:00","dg-note-properties":{}}
 ---
 
-这个家伙还不知道给自己的主页写点什么好……但是希望看到这一页的你，对着屏幕说一句：我今天做得好吗？当然！
+你好，欢迎来到我的小天地。
+
+我喜欢学习语言，目前学会了英语和韩语，正在学习德语和西语，所以会不定时更新关于语言学习相关的东西。
+
+我也喜欢科技和做饭，也会偶尔发一些有的没的。
+
+希望刷到这里的你，对着屏幕说一句：我今天做得好吗？当然！

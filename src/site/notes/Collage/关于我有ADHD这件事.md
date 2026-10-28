@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/collage/adhd/","created":"2026-09-14T10:27:48.667+08:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/Collage/关于我有ADHD这件事/","created":"2026-09-14T10:27:48.667+08:00","dg-note-properties":{}}
 ---
 
 ## 什么时候发现自己有ADHD？
